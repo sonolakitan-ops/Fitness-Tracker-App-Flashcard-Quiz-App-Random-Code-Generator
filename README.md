@@ -1,2 +1,24 @@
 # Fitness-Tracker-App-Flashcard-Quiz-App-Random-Code-Generator
 A fitness tracker web application built with HTML, CSS and JavaScript.
+# Flashcard Quiz App
+
+A simple and interactive Flashcard Quiz Application built using HTML, CSS, and JavaScript. This project helps users test their knowledge using flashcards and track their progress.
+
+## Features
+- Multiple flashcards with questions and answers
+- Score tracking system
+- Clean and responsive user interface
+- Easy navigation between cards
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## How to Run
+1. Download or clone the repository
+2. Open `index.html` in any web browser
+3. Start using the flashcard quiz app
+
+## Author
+Created for CodeAlpha Internship Project
