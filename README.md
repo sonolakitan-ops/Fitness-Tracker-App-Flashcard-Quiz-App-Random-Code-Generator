@@ -1,4 +1,4 @@
-# Multi-Utility-JS-Projects
+Multi-Utility-JS-Projects
 A fitness tracker web application built with HTML, CSS and JavaScript.
 # Flashcard Quiz App
 
