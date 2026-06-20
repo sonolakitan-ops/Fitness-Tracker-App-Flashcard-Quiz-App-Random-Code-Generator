@@ -1,4 +1,4 @@
-# Fitness-Tracker-App-Flashcard-Quiz-App-Random-Code-Generator
+# Multi-Utility-JS-Projects
 A fitness tracker web application built with HTML, CSS and JavaScript.
 # Flashcard Quiz App
 
